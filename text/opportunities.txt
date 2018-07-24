@@ -1,0 +1,5 @@
+	Ace Technologies	Boston	2012-06-20	2012-08-31	Programmer	Assist in a project to convert an online application from CGI to PHP.
+	Hometown Bakery	Cambridge	2012-09-15	2012-12-01	Web Developer	Implement a Web site for purchasing pastries over the Internet.
+	123 Accountants, Inc.	Boston	2012-07-01	2012-09-01	Application Developer	Develop a Web-based In/Out board for our intranet.
+	United Charities	Newton	2012-06-25	2012-09-02	Web Programmer	Assist in the development of a PHP sponsorship form for a 5K road race.
+	Technology Manufacturing, Inc.	Avon	2012-08-25	2012-12-20	Web Developer	Assist in implementing an online documentation library for product manuals.
