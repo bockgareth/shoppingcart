@@ -1,5 +1,5 @@
 <?php
-	$dbName = "store_db"
+	$dbName = "store_db";
 	$ErrorMsgs = [];
 	$DBConnect = @new mysqli("localhost", "root","", $dbName);
 	if ($DBConnect->connect_errno) {

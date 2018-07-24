@@ -5,7 +5,7 @@
 
     $invLocation = "C:/xampp/htdocs/oshop/text/inventory.txt";
     $infoLocation = "C:/xampp/htdocs/oshop/text/store_info.txt";
-    $dbName = "store_db"
+    $dbName = "store_db";
 
     $conn = new mysqli('localhost', 'root', '');
     if ($conn->connect_error) {

@@ -121,7 +121,6 @@
         }
 
         public function processUserInput() {
-            print_r($_GET);
             if(!empty($_GET['ItemToAdd'])) {
                 $this->addItem();    
             }
