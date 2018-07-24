@@ -5,13 +5,14 @@
 
     $invLocation = "C:/xampp/htdocs/oshop/text/inventory.txt";
     $infoLocation = "C:/xampp/htdocs/oshop/text/store_info.txt";
+    $dbName = "store_db"
 
     $conn = new mysqli('localhost', 'root', '');
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
     } 
 
-    $sql = "CREATE DATABASE IF NOT EXISTS store_db";
+    $sql = "CREATE DATABASE IF NOT EXISTS ".$dbName;
     if ($conn->query($sql)) {
         echo "Database created successfully";
     } else {
